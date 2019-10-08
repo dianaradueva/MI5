@@ -9,4 +9,4 @@
 * Pagina's schetsen
 
 ## Week 3 - 4 uur
-
+* Schets maken in Sketch
