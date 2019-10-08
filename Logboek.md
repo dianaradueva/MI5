@@ -8,5 +8,5 @@
 * Project bespreken met partner
 * Pagina's schetsen
 
-# Week 3 - 4 uur
+## Week 3 - 4 uur
 
