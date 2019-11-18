@@ -36,7 +36,7 @@
 
 ## Week van de 4 november - 8 uur
 * audits errors proberen te fixen
-* grid responsif maken
+* grid responsive maken
 * API calls verbeteren
 
 ## Week van de 11 november - 5 uur
