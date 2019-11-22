@@ -12,7 +12,7 @@
 
 ## Week van de 7 october - 6 uur
 * Schets maken in Sketch
-* Bespreking voor de oplossing van te grootte foto's
+* Bespreking voor de oplossing van grootte foto's
 * Bespreking hoe en waar we de website online gaan plaatsen
 * Leren hoe we een react app deploien
 
