@@ -44,8 +44,9 @@
 * onnodige code weghalen
 * auditx errors nog verbeteren
 
-## Week van de 18 november - 4
+## Week van de 18 november - 6 uur
 * Nieuwe api calls maken
 * Zoeken naar navigatie
 * Code cleanen
 * Start documentatie
+* Navigatie animation
