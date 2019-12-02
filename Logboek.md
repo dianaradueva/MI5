@@ -50,3 +50,8 @@
 * Code cleanen
 * Start documentatie
 * Navigatie animation
+
+## Week van 25 november 
+
+
+## Week van 2 december
