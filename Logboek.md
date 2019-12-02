@@ -44,14 +44,20 @@
 * onnodige code weghalen
 * auditx errors nog verbeteren
 
-## Week van de 18 november - 6 uur
+## Week van de 18 november - 12 uur
 * Nieuwe api calls maken
 * Zoeken naar navigatie
 * Code cleanen
 * Start documentatie
 * Navigatie animation
 
-## Week van 25 november 
+## Week van 25 november 15 uur
+* layout aanpassen
+* beslissen wat grid te gebruiken
+* bespreking van de andere pagina layout
+* kijken voor mogelijke layout voor resterende pagina's
 
-
-## Week van 2 december
+## Week van 2 december 10 uur
+* effecten van mdb pro bekijken op de website
+* css fixen ide pro versie aanpaste
+* verschillende mogelikheden testen voor pro componenten
