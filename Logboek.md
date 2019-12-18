@@ -1,4 +1,4 @@
-# Logboek Mi5 - Diana Radueva
+# Logboek Mi5 - Diana Radueva 109 uur
 
 ## Week van de 23 september - 6 uur
 * Uitleg docent wat verwacht wordt van het project
@@ -61,3 +61,16 @@
 * effecten van mdb pro bekijken op de website
 * css fixen ide pro versie aanpaste
 * verschillende mogelikheden testen voor pro componenten
+
+## Week van de 8 december 9
+* layout nog is verbeteren volgens de klant
+* css cleanen
+* Menu hover probleem fixen
+* audits testen beter maken
+
+## Week van de 16 december 10
+* laaste banners aanpassen
+* css cleanen
+* audits testen bekijken en proberen fixen
+* coverage over de css doen
+* nieuwe titels voor mobile,pc
