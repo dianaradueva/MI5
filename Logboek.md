@@ -51,24 +51,24 @@
 * Start documentatie
 * Navigatie animation
 
-## Week van 25 november 15 uur
+## Week van 25 november - 15 uur
 * layout aanpassen
 * beslissen wat grid te gebruiken
 * bespreking van de andere pagina layout
 * kijken voor mogelijke layout voor resterende pagina's
 
-## Week van 2 december 10 uur
+## Week van 2 december - 10 uur
 * effecten van mdb pro bekijken op de website
 * css fixen ide pro versie aanpaste
 * verschillende mogelikheden testen voor pro componenten
 
-## Week van de 8 december 9
+## Week van de 8 december - 9 uur
 * layout nog is verbeteren volgens de klant
 * css cleanen
 * Menu hover probleem fixen
 * audits testen beter maken
 
-## Week van de 16 december 10
+## Week van de 16 december - 10 uur
 * laaste banners aanpassen
 * css cleanen
 * audits testen bekijken en proberen fixen
